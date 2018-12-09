@@ -1,0 +1,32 @@
+h1{
+				color:black; border-color:black; border:5px dashed black; word-spacing: 10px;
+			}
+			.heading1{
+				background-color:#FFDEAD;
+			}
+
+			#heading1{
+				text-align: center;
+			}
+			.cover{
+				width:1400px; height:500px;
+			}
+			.body1{
+				 font-size: 22px;
+			}
+			.body2{
+				font-size: 22px;
+			}
+			body{
+ 				 padding-top: 50px;
+				 padding-right: 50px;
+ 				 padding-bottom: 50px;
+  				 padding-left: 60px;
+}
+			}
+.html_link{
+			text-decoration:none;
+}
+.css_link{
+	text-decoration:none;
+}			
